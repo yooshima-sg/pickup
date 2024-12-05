@@ -1,3 +1,3 @@
 # pickup
 
-![実行デモ](media/screencapture.webm)
+![実行デモ](media/screencapture.gif)
